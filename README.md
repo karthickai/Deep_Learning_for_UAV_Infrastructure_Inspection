@@ -1,6 +1,6 @@
 # **Deep Learning for UAV Infrastructure Inspection**
 
- MathWorks' Excellence in Innovation [Project 187](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
+ MathWorks' Excellence in Innovation [Project 187](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection)
 
 ## UAV Road Crack Detection
 
