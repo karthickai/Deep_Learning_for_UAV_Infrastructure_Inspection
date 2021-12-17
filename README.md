@@ -17,6 +17,12 @@ You need to install and setup below components to run this project
 
 * You need to **Install UAV Toolbox Interface for Unreal Engine Projects Addon** from this [link](https://in.mathworks.com/matlabcentral/fileexchange/80275-uav-toolbox-interface-for-unreal-engine-projects)
 
+---
+
+### Youtube Link: https://youtu.be/fIChAhNW8VY
+You can find video walkthrough of this project
+
+---
 ## Open the Project
 
 To get started, open the example live script and access the supporting files by clicking **Open Live Script** in the documentation
