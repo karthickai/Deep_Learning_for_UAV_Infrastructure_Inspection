@@ -6,6 +6,17 @@
 
 ![image_0.png](README_images/image_0.gif)
 
+## Prerequisite
+
+You need to install and setup below components to run this project
+
+* Install this **Addon Matlab Coder interface for deep learning libraries** from this [link](https://in.mathworks.com/matlabcentral/fileexchange/68612-matlab-coder-interface-for-deep-learning-libraries)
+
+* You need to **Set simulation target language to C++**. Follow this [link](https://in.mathworks.com/matlabcentral/answers/881458-for-deep-learning-the-simulation-target-language-must-be-set-to-c-i-believe-that-i-have-set-it-p)
+
+
+* You need to **Install UAV Toolbox Interface for Unreal Engine Projects Addon** from this [link](https://in.mathworks.com/matlabcentral/fileexchange/80275-uav-toolbox-interface-for-unreal-engine-projects)
+
 ## Open the Project
 
 To get started, open the example live script and access the supporting files by clicking **Open Live Script** in the documentation
@@ -70,10 +81,6 @@ Notice as the aircraft flies the mission the lidar point clouds update and an im
 Using Yolov2 Trained Model, System detect the crack and hole from live video stream from the drone
 
 ![image_7.png](README_images/image_7.png)
-
-  
-![image_8.png](README_images/image_8.png)
-  
 
 When you are done, close the project file. 
 
